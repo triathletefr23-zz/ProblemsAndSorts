@@ -1,0 +1,11 @@
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\TestTemplaceConsoleTest.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\TestTemplaceConsoleTest.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\TestTemplateConsoleApp.exe
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\TestTemplateConsoleApp.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\obj\Debug\TestTemplaceConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\obj\Debug\TestTemplaceConsoleTest.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\TestTemplaceConsoleTest\obj\Debug\TestTemplaceConsoleTest.pdb

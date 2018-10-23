@@ -1,0 +1,5 @@
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\SortsLibrary\bin\Debug\SortsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\SortsLibrary\bin\Debug\SortsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\SortsLibrary\obj\Debug\SortsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\SortsLibrary\obj\Debug\SortsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\SortsLibrary\obj\Debug\SortsLibrary.csprojResolveAssemblyReference.cache

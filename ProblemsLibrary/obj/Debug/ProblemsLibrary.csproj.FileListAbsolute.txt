@@ -1,0 +1,5 @@
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\ProblemsLibrary\bin\Debug\ProblemsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\ProblemsLibrary\bin\Debug\ProblemsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\ProblemsLibrary\obj\Debug\ProblemsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\ProblemsLibrary\obj\Debug\ProblemsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\ProblemsLibrary\obj\Debug\ProblemsLibrary.csprojResolveAssemblyReference.cache

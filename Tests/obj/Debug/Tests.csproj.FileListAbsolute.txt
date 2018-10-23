@@ -1,0 +1,9 @@
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\Tests.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\Tests.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\ProblemsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\SortsLibrary.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\ProblemsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\bin\Debug\SortsLibrary.pdb
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\obj\Debug\Tests.dll
+C:\Users\ur5ev\Desktop\Documents\Interview\TestTemplateConsoleApp\Tests\obj\Debug\Tests.pdb
