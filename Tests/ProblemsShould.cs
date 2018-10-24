@@ -59,6 +59,40 @@ namespace Tests
         };
 
         [TestMethod]
+        [TestCategory("InsertIntoBST")]
+        public void ReturnNewTreeWithANode1()
+        {
+            var initNode = new TreeNode
+            {
+                val = 2,
+                left = new TreeNode
+                {
+                    left = new TreeNode(1),
+                    right = new TreeNode(3)
+                },
+                right = new TreeNode(7)
+            };
+
+            var expNode = new TreeNode
+            {
+                val = 2,
+                left = new TreeNode
+                {
+                    left = new TreeNode(1),
+                    right = new TreeNode(3)
+                },
+                right = new TreeNode
+                {
+                    val = 7,
+                    left = new TreeNode(5)
+                }
+            };
+
+            var resNode = TreeProblems.InsertIntoBST(initNode, 5);
+            Assert.AreEqual(expNode.right.left.val, resNode.right.left.val);
+        }
+
+        [TestMethod]
         [TestCategory("PowerSum")]
         public void ReturnThreeForNumberHundredAndPowTwo()
         {

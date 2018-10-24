@@ -1,10 +1,30 @@
-using System.Collections.Generic;
 using ProblemsLibrary.Problems.Helpers;
 
 namespace ProblemsLibrary.Problems
 {
     public static class TreeProblems
     {
+        public static TreeNode InsertIntoBST(TreeNode root, int val)
+        {
+            return insertNode(root, val);
+        }
+
+        private static TreeNode insertNode(TreeNode node, int val)
+        {
+            if (node == null) return new TreeNode(val);
+
+            if (node.val > val)
+            {
+                node.left = insertNode(node.left, val);
+            }
+            else
+            {
+                node.right = insertNode(node.right, val);
+            }
+
+            return node;
+        }
+
         public static TreeNode PruneTree(TreeNode node)
         {
             return CheckOnOneValue(node);
